@@ -4,7 +4,7 @@
 
 ## Copyright Notice
 
-Copyright (c) [2024] [Amanda Garcia Prosdocimi]
+Copyright (c) [2024] [Amanda G. Prosdocimi]
 
 All rights reserved.
 
